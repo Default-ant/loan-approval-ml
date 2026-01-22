@@ -1,4 +1,4 @@
-**/.ipnyb_checkpoints/
+**/.ipynb_checkpoints/
 
 __pycache__/
 *.pyc
@@ -7,4 +7,4 @@ __pycache__/
 .venv
 venv/
 
->DS_Store
+.DS_Store
